@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+11e80e51a9f94bbb7aea354c91b452a0d0049ec4 refs/remotes/origin/AddFastPose
+2f0afb474ac18a492cff3b82d0a6343366525327 refs/remotes/origin/UpdateJetpack4.5
+1e49d65492d5e11120681b9a7c1ad839ef6877d1 refs/remotes/origin/UpdateJetpack4.6.1
+0091135e98dc5274fcf7faffd1a774e4c8c25a8d refs/remotes/origin/dependabot/pip/api/fastapi-0.65.2
+959fce2a04ceb8833b9e446b9d166de5665aaabb refs/remotes/origin/gstreamer
+2def6738038035e67ac79fc9b72ba072e190321f refs/remotes/origin/master
+69529587d82d562f0e482a5651a9d2524dfce7d9 refs/remotes/origin/neuralet-master
+bd6e5822855413dfa321403d8ebe33a8a6cf4f62 refs/remotes/origin/separate_components
+f654b3859e48d62468016ab5691d960bdaf2fab6 refs/tags/0.1.0
+^d377ddbd709ba2b1799d02e38a07d892d7805076
+4f6cdaf6cb6fa65e1a407fa94c4832934b198c2e refs/tags/0.2.0
+5ae147ac4eceb58ae9d0d6fef893c0130b91a890 refs/tags/0.3.0
+3ecd07b2ada35960e034e58b83d77381cbd0c96e refs/tags/0.4.0
+d4bd2e405983cbff5d6c768162ade263c47ebad0 refs/tags/0.5.0
+^01753b8e140c8f9cb82af2b387245985edf37ba7
+a06093a38d1038b9fed015f2ea228c54fca2806a refs/tags/0.6.0
+^a80bdaa6527e80024b923ce2429dae5680db0ced
+6757c6a2f741fc56cabf5cad4a948df76727c26f refs/tags/0.7.0

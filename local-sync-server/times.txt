@@ -1,0 +1,6 @@
+https://crontab.guru/
+https://crontab.guru/examples.html
+
+"At every minute": * * * * *
+"At every hour": 0 * * * *
+"Daily": 0 0 * * *

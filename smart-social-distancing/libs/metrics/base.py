@@ -261,13 +261,10 @@ class BaseMetric:
     def compute_live_metrics(cls, config, live_interval):
         base_directory = cls.get_entity_base_directory(config)
         entities = cls.get_entities(config)
-        logger.info('JOPE::::::base_directory' + base_directory)
-        logger.info('JOPE::::::entities' + str(entities))
         for entity in entities:
             if not cls.can_execute(config, entity):
                 continue
             entity_directory = os.path.join(base_directory, entity["id"])
-            logger.info('Prueba miaaa: ' + str(entity_directory))
             reports_directory = os.path.join(entity_directory, "reports", cls.reports_folder)
             # Create missing directories
             os.makedirs(reports_directory, exist_ok=True)
@@ -279,22 +276,15 @@ class BaseMetric:
                 log_directory = os.path.join(entity_directory, "occupancy_log")
             today_entity_csv = os.path.join(log_directory, str(date.today()) + ".csv")
             live_report_csv = os.path.join(reports_directory, "live.csv")
-            logger.info('FERRR: live_repport: ' + str(live_report_csv))
             csv_headers = cls.live_csv_headers if cls.live_csv_headers else cls.csv_headers
-            logger.info('FERRR: csv_headers: ' + str(csv_headers))
             headers = ["Time"] + csv_headers
             report_file_exists = os.path.isfile(live_report_csv)
-            logger.info('SIUUUUUUUUUUUUUU')
             if not os.path.isfile(today_entity_csv):
-                logger.info('FFFFFFFFFFFFF')
                 return
-            logger.info('NOOOOOOOOOOO')
             entries_in_interval = int(live_interval * 60 / get_source_logging_interval(config))
             live_data = cls.generate_live_csv_data(config, today_entity_csv, entity, entries_in_interval)
-            logger.info('FERRR: live_data: ' + str(live_data))
             assert len(live_data) == len(csv_headers), "Row element count not the same as header count!!"
             with open(live_report_csv, "a") as csvfile:
-                logger.info('FERRRR: entroooo')
                 writer = csv.DictWriter(csvfile, fieldnames=headers)
                 if not report_file_exists:
                     writer.writeheader()

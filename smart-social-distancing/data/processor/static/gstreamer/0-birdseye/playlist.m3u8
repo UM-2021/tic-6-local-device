@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:NO
+#EXT-X-MEDIA-SEQUENCE:61
+#EXT-X-TARGETDURATION:5
+
+#EXTINF:5,
+/static/gstreamer/0-birdseye/video_00060.ts
+#EXTINF:5,
+/static/gstreamer/0-birdseye/video_00061.ts
+#EXTINF:5,
+/static/gstreamer/0-birdseye/video_00062.ts
+#EXTINF:5,
+/static/gstreamer/0-birdseye/video_00063.ts
+#EXTINF:5,
+/static/gstreamer/0-birdseye/video_00064.ts

@@ -1,0 +1,606 @@
+Timestamp,Cameras,Occupancy
+2022-05-25 15:48:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:48:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:48:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:48:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:48:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:48:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:48:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:48:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:04,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:04,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:08,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:08,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:49:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:15,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:15,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:16,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:16,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:17,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:49:17,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:49:18,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:18,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:19,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:19,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:20,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:20,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:21,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:49:22,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:22,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",4
+2022-05-25 15:49:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",4
+2022-05-25 15:49:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:49:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:49:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:49:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:49:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:04,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:04,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:50:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:08,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:50:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:15,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:15,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:16,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:16,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:17,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:17,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:18,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:18,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:19,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:19,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:20,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:20,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:21,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:50:21,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:50:22,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:50:22,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:50:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:50:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:50:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:50:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:50:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:51:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:51:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:51:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:51:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:51:02,[],0
+2022-05-25 15:51:02,[],0
+2022-05-25 15:51:03,[],0
+2022-05-25 15:51:03,[],0
+2022-05-25 15:51:04,[],0
+2022-05-25 15:51:04,[],0
+2022-05-25 15:51:05,[],0
+2022-05-25 15:51:05,[],0
+2022-05-25 15:51:06,[],0
+2022-05-25 15:51:06,[],0
+2022-05-25 15:51:07,[],0
+2022-05-25 15:51:07,[],0
+2022-05-25 15:51:08,[],0
+2022-05-25 15:51:08,[],0
+2022-05-25 15:51:09,[],0
+2022-05-25 15:51:09,[],0
+2022-05-25 15:51:10,[],0
+2022-05-25 15:51:10,[],0
+2022-05-25 15:51:11,[],0
+2022-05-25 15:51:11,[],0
+2022-05-25 15:51:12,[],0
+2022-05-25 15:51:12,[],0
+2022-05-25 15:51:13,[],0
+2022-05-25 15:51:13,[],0
+2022-05-25 15:51:14,[],0
+2022-05-25 15:51:14,[],0
+2022-05-25 15:51:15,[],0
+2022-05-25 15:51:15,[],0
+2022-05-25 15:51:16,[],0
+2022-05-25 15:51:16,[],0
+2022-05-25 15:51:17,[],0
+2022-05-25 15:51:17,[],0
+2022-05-25 15:51:18,[],0
+2022-05-25 15:51:18,[],0
+2022-05-25 15:51:19,[],0
+2022-05-25 15:51:19,[],0
+2022-05-25 15:51:20,[],0
+2022-05-25 15:51:20,[],0
+2022-05-25 15:51:21,[],0
+2022-05-25 15:51:21,[],0
+2022-05-25 15:51:22,[],0
+2022-05-25 15:51:22,[],0
+2022-05-25 15:51:23,[],0
+2022-05-25 15:51:23,[],0
+2022-05-25 15:51:24,[],0
+2022-05-25 15:51:24,[],0
+2022-05-25 15:51:25,[],0
+2022-05-25 15:51:25,[],0
+2022-05-25 15:51:26,[],0
+2022-05-25 15:51:26,[],0
+2022-05-25 15:51:27,[],0
+2022-05-25 15:51:27,[],0
+2022-05-25 15:51:28,[],0
+2022-05-25 15:51:28,[],0
+2022-05-25 15:51:29,[],0
+2022-05-25 15:51:29,[],0
+2022-05-25 15:51:30,[],0
+2022-05-25 15:51:30,[],0
+2022-05-25 15:51:31,[],0
+2022-05-25 15:51:31,[],0
+2022-05-25 15:51:32,[],0
+2022-05-25 15:51:32,[],0
+2022-05-25 15:51:33,[],0
+2022-05-25 15:51:33,[],0
+2022-05-25 15:51:34,[],0
+2022-05-25 15:51:34,[],0
+2022-05-25 15:51:35,[],0
+2022-05-25 15:51:35,[],0
+2022-05-25 15:51:36,[],0
+2022-05-25 15:51:36,[],0
+2022-05-25 15:51:37,[],0
+2022-05-25 15:51:37,[],0
+2022-05-25 15:51:38,[],0
+2022-05-25 15:51:38,[],0
+2022-05-25 15:51:39,[],0
+2022-05-25 15:51:39,[],0
+2022-05-25 15:51:40,[],0
+2022-05-25 15:51:40,[],0
+2022-05-25 15:51:41,[],0
+2022-05-25 15:51:41,[],0
+2022-05-25 15:51:42,[],0
+2022-05-25 15:51:42,[],0
+2022-05-25 15:51:43,[],0
+2022-05-25 15:51:43,[],0
+2022-05-25 15:51:44,[],0
+2022-05-25 15:51:44,[],0
+2022-05-25 15:51:45,[],0
+2022-05-25 15:51:45,[],0
+2022-05-25 15:51:46,[],0
+2022-05-25 15:51:46,[],0
+2022-05-25 15:51:47,[],0
+2022-05-25 15:51:47,[],0
+2022-05-25 15:51:48,[],0
+2022-05-25 15:51:48,[],0
+2022-05-25 15:51:49,[],0
+2022-05-25 15:51:49,[],0
+2022-05-25 15:51:50,[],0
+2022-05-25 15:51:50,[],0
+2022-05-25 15:51:51,[],0
+2022-05-25 15:51:51,[],0
+2022-05-25 15:51:52,[],0
+2022-05-25 15:51:52,[],0
+2022-05-25 15:52:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:52:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:52:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:52:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:52:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:52:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:52:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:52:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",4
+2022-05-25 15:53:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",4
+2022-05-25 15:53:04,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:53:04,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:08,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:08,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:15,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:16,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:16,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:17,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:17,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:18,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:18,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:19,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:19,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:20,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:20,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:21,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:21,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:22,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:22,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:23,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:24,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:25,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:26,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:27,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:28,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:29,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:30,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:31,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:32,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:33,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:53:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:34,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:35,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:53:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:36,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:37,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:38,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:53:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:39,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:40,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:41,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:42,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:43,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:44,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:45,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:46,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",3
+2022-05-25 15:53:47,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:48,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:49,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:50,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:51,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:53:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:52,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:53:53,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:54,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:55,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:56,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:57,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:58,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:53:59,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:54:00,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:54:01,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:54:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:54:02,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:54:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:54:03,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:54:04,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:54:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:05,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:06,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:07,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:08,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:08,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:54:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:54:09,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",0
+2022-05-25 15:54:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:54:10,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",2
+2022-05-25 15:54:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:11,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:12,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:13,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:14,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:15,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1
+2022-05-25 15:54:15,"[{'camera_id': '0', 'camera_name': 'Garden-Camera'}]",1

@@ -63,7 +63,7 @@ EXPECTED_BAD_RESPONSE_BACKEND = {
             'type': 'string'
         },
         'message': {
-            'type': 'string '
+            'type': 'string'
         }
     },
     'required': ['status', 'message']
